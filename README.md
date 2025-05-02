@@ -9,7 +9,7 @@ Este script em Python calcula o horário de saída necessário para completar um
 ## 💻 Como usar
 
 1. Clone ou baixe este repositório.
-2. Salve o script como `calculo_jornada.py`.
+2. Salve o script como `clt.py`.
 
 3. No terminal, execute o comando:
 
